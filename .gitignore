@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual env
+venv/
+
+# Output files
+*.csv
+*.png
+
+# Environment files
+.env
+
